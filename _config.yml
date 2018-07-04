@@ -1,0 +1,9 @@
+theme: jekyll-theme-primer
+title: Report Overview
+description: Final Report - Understanding rider behavior with unsupervised learning methods
+baseurl:
+markdown: kramdown
+kramdown:
+    math_engine: mathjax
+    input: GFM
+    syntax_highlighter: rouge
